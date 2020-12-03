@@ -14,7 +14,7 @@ CREATE TABLE academic (
 ) 
 
 --
--- Volcado de datos para la tabla 'academic'1
+-- Volcado de datos para la tabla 'academic'
 --
 
 INSERT INTO academic (Anoemplead, Anombre, Adomicilio, Afecalta, Anumayuda, Asueldo, Anocarrera) VALUES
